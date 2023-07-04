@@ -38,7 +38,7 @@ Template : 👇
 
 Example : 👇
 
-    https://github.com/rzashakeri/rzashakeri
+    https://github.com/huntemalldev/huntemall.dev
 
 ### After Create Repository, **Create a README.md** in Repository and Done ✅
 
